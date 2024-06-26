@@ -7,6 +7,8 @@
 3. Copy the jar
 4. Run the jar
 
+### End
+
 ### Docker Commands - Creating Image Manually
 
 - docker run -dit openjdk:8-jdk-alpine
